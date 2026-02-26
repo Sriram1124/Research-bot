@@ -1,4 +1,4 @@
-# Equity Research Bot
+# Research Bot
 
 A Retrieval-Augmented Generation (RAG) research assistant built using LangChain, FAISS, and HuggingFace embeddings. This bot analyzes news articles and answers research questions using semantic search and LLM-generated responses with source attribution.
 
